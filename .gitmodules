@@ -1,0 +1,6 @@
+[submodule "tellingme-server"]
+	path = tellingme-server
+	url = https://github.com/telling-me/tellingme-server
+[submodule "tellingme-python-server"]
+	path = tellingme-python-server
+	url = https://github.com/telling-me/tellingme-python-server
